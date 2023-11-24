@@ -67,7 +67,7 @@ module.exports = configure(function (/* ctx */) {
       // ignorePublicFolder: true,
       // minify: false,
       // polyfillModulePreload: true,
-      distDir: 'quasar-gh-pages-ci-test'
+      // distDir: 'quasar-gh-pages-ci-test'
 
       // extendViteConf (viteConf) {},
       // viteVuePluginOptions: {},
